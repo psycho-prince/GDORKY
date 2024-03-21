@@ -20,3 +20,5 @@ GDorky is a versatile tool designed to perform searches on different search engi
     Exit GDorky: If you choose not to perform another search or if you're done using GDorky, the program will exit.
 
 Follow these steps to effectively utilize GDorky for your search needs. Enjoy searching with GDorky!
+
+FOR RUNNING TYPE '' python3 gdorky.py " IN THE TERMINAL
